@@ -1,7 +1,7 @@
 <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif" height=500/>
 
 <h1 align="center">O lieb, solang du lieben kannst!</h1>
-<h4 align="center">A Game Developer that can fix broken fridges</h4>
+<h4 align="center">A Software Developer that can fix broken refrigerators</h4>
 
 # 
 <div class="body">
