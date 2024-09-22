@@ -2,10 +2,6 @@
 <h3 align="center">Greetings, I'm Ryunosuke</h3>
 <h4 align="center">A Game Developer that can fix broken fridges</h4>
 
-#
-
-- 📫 How to reach me **rakutagawa881@gmail.com**
-
 # 
 <div class="body">
   <h3 align="left">Skills:</h3>
