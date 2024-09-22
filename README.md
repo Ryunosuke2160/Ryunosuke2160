@@ -1,7 +1,6 @@
 <img src="https://media1.giphy.com/media/NKEt9elQ5cR68/giphy.gif" height=500/>
 
 <h1 align="center">O lieb, solang du lieben kannst!</h1>
-<h3 align="center">Greetings, I'm Ryunosuke</h3>
 <h4 align="center">A Game Developer that can fix broken fridges</h4>
 
 # 
